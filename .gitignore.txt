@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+bower_components/
+
+# Environment files
+.env
+
+# Dist and build files
+dist/
+build/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Package lock files (optional)
+package-lock.json
+yarn.lock
+
+# Coverage directory
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Specific custom files
+your-custom-files-or-folders/
